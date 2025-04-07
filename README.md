@@ -44,15 +44,19 @@ network-analysis-mooc │ ├── data/ │ └── actions.csv # Raw datase
 ## Visualizations
 
 - Bar charts for degree distribution
+  
   https://github.com/SHALOM-1434/Network-Analysis-Project/commit/b856283c9bec90699bc9c5555564e44b49d37735
   
 - Time series of user interactions
+  
   https://github.com/SHALOM-1434/Network-Analysis-Project/commit/b856283c9bec90699bc9c5555564e44b49d37735
   
 - Network graphs with color-coded communities
+  
   https://github.com/SHALOM-1434/Network-Analysis-Project/commit/b856283c9bec90699bc9c5555564e44b49d37735
   
 - Heatmaps for temporal activity patterns
+  
   https://github.com/SHALOM-1434/Network-Analysis-Project/commit/b856283c9bec90699bc9c5555564e44b49d37735
 
 ## Dataset Source
